@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-#hi
+#practice
 
 video_url = input("링크를 붙여넣어주세요.(Ctrl + Shift + V)\n")
 video_id = video_url.split("v=")[-1]
