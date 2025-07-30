@@ -2,6 +2,7 @@
 
 실행 방법
 
+CTRL + `을 눌러 TERMINAL (POWERSHELL)
 ```
 python main.py
 ```
