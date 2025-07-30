@@ -1,6 +1,6 @@
 import requests
 from datetime import datetime
-#
+
 video_url = input("링크를 붙여넣어주세요.(Ctrl + Shift + V)\n")
 video_id = video_url.split("v=")[-1]
 thumbnail_url = f"https://img.youtube.com/vi/{video_id}/0.jpg"
